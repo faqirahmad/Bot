@@ -1,0 +1,11 @@
+{
+  "stake_currency": "USDT",
+  "stake_amount": 100,
+  "dry_run": true,
+  "exchange": {
+    "name": "gateio",
+    "key": "اینجا API KEY تو",
+    "secret": "اینجا API SECRET",
+    "pair_whitelist": ["DOGE5L/USDT"]
+  }
+}
